@@ -2,13 +2,13 @@
 This project demonstrates the implementation of K-Means Clustering, an unsupervised machine learning algorithm used to group data into
 .
 
-📌 K-Means Clustering – Market Segmentation Analysis
+* K-Means Clustering – Market Segmentation Analysis
 
 This project applies K-Means Clustering to perform market segmentation, an unsupervised learning technique used to divide customers into distinct groups based on similar characteristics and behaviour.
 
 The goal of this analysis is to identify meaningful customer segments that can help businesses understand customer patterns, preferences, and potential targeting strategies.
 
-🔹 Objective
+- Objective
 
 To segment customers into homogeneous groups
 
@@ -16,7 +16,7 @@ To identify natural clusters present in the data
 
 To support data-driven marketing and business decisions
 
-🔹 Methodology
+- Methodology
 
 Data preprocessing and feature scaling
 
@@ -26,12 +26,12 @@ Application of K-Means algorithm
 
 Visualization and interpretation of customer clusters
 
-🔹 K-Means Concept
+- K-Means Concept
 
 K-Means partitions the data into K clusters by minimizing the within-cluster sum of squares (WCSS):
 
 
-🔹 Tools & Libraries
+- Tools & Libraries
 
 Python
 
@@ -43,11 +43,11 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-🔹 Outcome
+- Outcome
 
 The clustering results reveal distinct market segments, enabling better understanding of customer diversity and supporting targeted marketing strategies.
 
-🔹 Applications
+- Applications
 
 Customer segmentation
 

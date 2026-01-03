@@ -4,7 +4,7 @@ This project demonstrates the implementation of K-Means Clustering, an unsupervi
 
 📌 K-Means Clustering – Market Segmentation Analysis
 
-This project applies K-Means Clustering to perform market segmentation, an unsupervised learning technique used to divide customers into distinct groups based on similar characteristics and behavior.
+This project applies K-Means Clustering to perform market segmentation, an unsupervised learning technique used to divide customers into distinct groups based on similar characteristics and behaviour.
 
 The goal of this analysis is to identify meaningful customer segments that can help businesses understand customer patterns, preferences, and potential targeting strategies.
 
@@ -30,61 +30,6 @@ Visualization and interpretation of customer clusters
 
 K-Means partitions the data into K clusters by minimizing the within-cluster sum of squares (WCSS):
 
-∑
-𝑖
-=
-1
-𝐾
-∑
-𝑥
-∈
-𝐶
-𝑖
-∣
-∣
-𝑥
-−
-𝜇
-𝑖
-∣
-∣
-2
-i=1
-∑
-K
-	​
-
-x∈C
-i
-	​
-
-∑
-	​
-
-∣∣x−μ
-i
-	​
-
-∣∣
-2
-
-Where:
-
-𝐶
-𝑖
-C
-i
-	​
-
- = cluster i
-
-𝜇
-𝑖
-μ
-i
-	​
-
- = centroid of cluster i
 
 🔹 Tools & Libraries
 
